@@ -1,8 +1,7 @@
 <img width="2048" height="1536" alt="walmart_png" src="https://github.com/user-attachments/assets/ade6487a-e46b-46f3-b433-ca27f3101da2" />
 
 # 🛒 Walmart Black Friday Analysis
-
-
+- Dataset link [Download](https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/001/293/original/walmart_data.csv?1641285094)
 
 ## 📑 Project Summary
 Conducted Exploratory Data Analysis (EDA) to identify differences in customer purchasing behavior
@@ -27,6 +26,10 @@ business recommendations to improve customer acquisition and revenue.
 * Perform the same activity for Married vs Unmarried and Age.
 * Extract key insights, Give recommendations and action items to <br>
   Walmart based on insights.
+
+## 🛠️ Tools & Libraries
+* **Environment:** Python (Google Colab)
+* **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, SciPy
 
 ## 📈 key Insights
 
