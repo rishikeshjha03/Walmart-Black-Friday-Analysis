@@ -196,3 +196,48 @@ television networks and leverage social media influencers who command
 * Closely monitor local competitor pricing and matching structures. Deploy aggressive,  
  localized promotional counter-offers during major regional festivals and peak retail   
  holiday sales.
+
+## 📊 Visualizations
+### Distribution of Gender
+<img width="2391" height="622" alt="image" src="https://github.com/user-attachments/assets/9a000214-6877-4e46-a48a-a16f7314661f" />
+
+*Percentage of male and female customers and percentage of their total transaction*
+
+
+### CI Visualization
+<img width="1247" height="451" alt="image" src="https://github.com/user-attachments/assets/696a93dd-2dbe-4af8-ae24-c2b44b35e1e5" />
+
+*95% Confidence Interval of female and male average per transaction*
+
+### Gender Purchasing Pattern
+<img width="1667" height="628" alt="image" src="https://github.com/user-attachments/assets/a07ee0c5-0b52-4086-978a-97d0734ddb67" />
+
+*Allocation of money on each product category by each gender*
+
+## Average spending of different products
+<img width="1574" height="689" alt="image" src="https://github.com/user-attachments/assets/1aede5ae-e778-4af2-a882-103ef959e069" />
+
+*female and male average spending on top 20 products*
+
+
+### Total transaction: Marital Status
+<img width="1584" height="684" alt="image" src="https://github.com/user-attachments/assets/97442700-ec4a-47ef-a624-45cd745a53e8" />
+
+*Percentage of total spending by married and unmarried customers*
+
+## Total Spending: Age
+<img width="1279" height="650" alt="image" src="https://github.com/user-attachments/assets/93532b81-a064-46ff-8c1d-ccaae3e33bfc" />
+
+*Percentage of total spending by different age groups*
+
+## Average Spending: Age
+<img width="1012" height="496" alt="image" src="https://github.com/user-attachments/assets/ef2e1382-1843-466d-8136-d70d8956ed6d" />
+
+*Average per transaction by each age group*
+
+## Segments
+<img width="1574" height="628" alt="image" src="https://github.com/user-attachments/assets/d66a591a-c713-4121-a92b-3469616b0907" />
+
+*High and low value segments*
+
+
